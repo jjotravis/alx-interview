@@ -1,4 +1,4 @@
-#!/bin/usr/env python3
+#!/bin/usr/python3
 """
 Rotate 2D Matrix
 """
