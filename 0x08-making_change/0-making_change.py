@@ -1,5 +1,3 @@
-from typing import List
-
 #!/usr/bin/python3
 """
 Change for the note
