@@ -5,8 +5,7 @@
 def island_perimeter(grid):
     """
     Calculate the perimeter of an island represented by a grid.
-    The grid is a list of lists where 1 represents land and 0 represents water.
-    The perimeter is calculated by counting the number of edges around the land cells.
+    The grid is a list of lists where 1 rep land and 0 rep water.
     Returns the total perimeter.
     """
     if not grid:
