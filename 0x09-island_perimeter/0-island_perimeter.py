@@ -1,7 +1,8 @@
 #!/usr/bin/python3
+from typing import List
 
 
-def island_perimeter(grid):
+def island_perimeter(grid: List[int]) -> int:
     if not grid:
         return 0
 
